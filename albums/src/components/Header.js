@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#5856D6',
         justifyContent: 'center',
         alignItems: 'center',
-        height: 52,
+        height: 56,
         //shadowColor: '',
         //shadowOffset: { witdh: 0, height: 2 },
         //shadowOpacity: 0.2,
